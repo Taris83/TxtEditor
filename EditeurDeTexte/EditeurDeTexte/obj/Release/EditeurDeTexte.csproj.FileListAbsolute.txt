@@ -1,0 +1,12 @@
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Release\EditeurDeTexte.exe.config
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Release\EditeurDeTexte.exe
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Release\EditeurDeTexte.pdb
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.FrmMain.resources
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.Properties.Resources.resources
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.csproj.GenerateResource.Cache
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.exe
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.pdb
+C:\Users\Taris\Documents\Visual Studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.csprojResolveAssemblyReference.cache
+C:\Users\Taris\Documents\Visual Studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Release\EditeurDeTexte.FrmAbout.resources
+C:\Users\Taris\Documents\Visual Studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Release\MintUI.dll
+C:\Users\Taris\Documents\Visual Studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Release\RedPandaUI.dll

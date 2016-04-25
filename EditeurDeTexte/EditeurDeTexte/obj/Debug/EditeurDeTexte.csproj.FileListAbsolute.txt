@@ -1,0 +1,12 @@
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Debug\EditeurDeTexte.exe.config
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Debug\EditeurDeTexte.exe
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Debug\EditeurDeTexte.pdb
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Debug\MaterialSkin.dll
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Debug\Shadow.dll
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\bin\Debug\MaterialSkin.pdb
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Debug\EditeurDeTexte.csprojResolveAssemblyReference.cache
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Debug\EditeurDeTexte.FrmMain.resources
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Debug\EditeurDeTexte.Properties.Resources.resources
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Debug\EditeurDeTexte.csproj.GenerateResource.Cache
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Debug\EditeurDeTexte.exe
+c:\users\taris\documents\visual studio 2015\Projects\EditeurDeTexte\EditeurDeTexte\obj\Debug\EditeurDeTexte.pdb
